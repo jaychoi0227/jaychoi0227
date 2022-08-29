@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaychoi0227
 - 👀 I’m interested in codes and music
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on an awesome projects
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me prayerjoshua95@gmail.com
 
 <!---
